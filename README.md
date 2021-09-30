@@ -7,3 +7,5 @@
 - /api/{name} -> get specific Member by name
 - /api/create/{name} -> Add new Member to table
 - /api/delete/{name} -> Delete member from table
+
+Thanks for following article: https://dassum.medium.com/building-a-reactive-restful-web-service-using-spring-boot-and-postgres-c8e157dbc81d
